@@ -11,6 +11,7 @@
     'depends': ['web'],
     'data': ['templates.xml'],
     'qweb': ['static/src/xml/formview.xml'],
+    'images': ['images/main_screen.jpg'],
     'price': 165.00,
     'currency': 'EUR',
     'installable': True,
